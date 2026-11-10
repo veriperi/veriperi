@@ -1,146 +1,80 @@
-<!-- Header banner -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=hi%2C%20i'm%20v%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20the%20making%20%7C%20Pipelines%20%E2%80%A2%20Warehouses%20%E2%80%A2%20Analytics&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a1b27,100:7F5AF0&height=150&section=header&text=hi%2C%20i'm%20vidhi%20%E2%9C%A6&fontSize=38&fontColor=00F7FF&fontAlignY=40&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9FAF&center=true&vCenter=true&width=600&lines=Building+Bronze+%E2%86%92+Silver+%E2%86%92+Gold+pipelines;Python+%7C+SQL+%7C+Airflow+%7C+dbt+%7C+Spark;Turning+raw+data+into+reliable+tables;Open+to+Junior+%2F+Associate+Data+Engineer+roles" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=620&height=40&lines=%3E+building+data+pipelines...;%3E+bronze+%E2%86%92+silver+%E2%86%92+gold+%E2%9C%93;%3E+open+to+junior+DE+roles+%E2%99%A1" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://veriperi.github.io/"><img src="https://img.shields.io/badge/Portfolio-veriperi.github.io-2C5364?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/veriperi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/veriperi/"><img src="https://img.shields.io/badge/LeetCode-veriperi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://veriperi.github.io/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00F7FF&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/veriperi/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9&labelColor=0d1117" /></a>
+  <a href="https://leetcode.com/u/veriperi/"><img src="https://img.shields.io/badge/leetcode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FF79C6&labelColor=0d1117" /></a>
+  <img src="https://komarev.com/ghpvc/?username=veriperi&style=for-the-badge&color=0d1117&label=views" />
 </p>
 
----
-
-## 🧭 About Me
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## `> whoami`
 
 ```yaml
-role:        Data Analyst & Digital Marketing Associate  (Jul 2023 – present, ~3 yrs)
-targeting:   Data Engineer | Junior Data Engineer | Associate Data Engineer
-focus:       batch pipelines, medallion architecture, data modelling, orchestration
-education:   B.E. Information Technology, University of Mumbai (2023) — CGPA 8.7
-currently:   building a Spark → S3 → Snowflake market-data pipeline 🚧
+role:      Data Analyst & Digital Marketing Associate  ·  Jul 2023 → now
+target:    Data Engineer  ·  Junior DE  ·  Associate DE
+builds:    batch pipelines · medallion layers · data models · orchestration
+learning:  Apache Spark · AWS S3 · Snowflake
+degree:    B.E. Information Technology, University of Mumbai (2023) · CGPA 8.7
 ```
 
-- 🛠️ I build end-to-end pipelines: **ingest → clean → model → serve**, with tests and orchestration in between
-- 📊 Three years as an analyst means I design tables with the *people who query them* in mind
-- 🐛 I like the debugging part: Docker volumes, SQLAlchemy sessions, and database locks have all taught me something
-- 🌱 Learning right now: **Apache Spark, AWS (S3), Snowflake**
+<!-- ═══════════════ STACK ═══════════════ -->
+## `> tech_stack`
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/sql-0d1117?style=flat-square&logo=postgresql&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/airflow-0d1117?style=flat-square&logo=apacheairflow&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/dbt-0d1117?style=flat-square&logo=dbt&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/spark-0d1117?style=flat-square&logo=apachespark&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/snowflake-0d1117?style=flat-square&logo=snowflake&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/aws%20s3-0d1117?style=flat-square&logo=amazons3&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/docker-0d1117?style=flat-square&logo=docker&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/tableau-0d1117?style=flat-square&logo=tableau&logoColor=FF79C6" />
+</p>
 
-## 🚀 Featured Projects
-
-### 🧠 [Content Intelligence Pipeline](https://github.com/veriperi/content-intelligence-pipeline) &nbsp;`⭐ featured`
-
-> Ingests content from public APIs, enriches it with LLM-assisted categorisation and quality scoring, and models it into analytics-ready tables.
-
-```mermaid
-flowchart LR
-    A[🌐 Public APIs] --> B[(🥉 Bronze<br/>raw)]
-    B --> C[(🥈 Silver<br/>cleaned)]
-    C --> D[🤖 LLM<br/>categorise + score]
-    D --> E[(🥇 Gold<br/>dbt models)]
-    F{{Apache Airflow}} -. orchestrates .-> B & C & E
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Engineering wins:** moved concurrent loading from SQLite to PostgreSQL to remove database-locking failures · fixed Docker volume persistence and SQLAlchemy session issues.
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 [WholeVegan Analytics](https://github.com/veriperi/wholevegan.co)
-PostgreSQL analytical data layer on synthetic order data, served through an interactive Streamlit dashboard.
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-🔗 [**Live dashboard →**](https://wholevegan-analytics.streamlit.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [E-commerce KPI Dashboard](https://github.com/veriperi/ecommerce-kpi-dashboard)
-KPI tracking for an e-commerce business: revenue, orders, conversion and customer metrics in one view.
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📉 Nifty 50 Market Data Pipeline &nbsp;`🚧 in progress`
-Minute-level Nifty 50 market data processed with Spark into an S3 data lake, warehoused in Snowflake, visualised in Tableau Public.
-
-```
-Kaggle (minute data) ──► Apache Spark ──► AWS S3 [Bronze → Silver → Gold] ──► Snowflake ──► Tableau Public
-```
-
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-| Area | Tools |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Orchestration & Transformation** | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) |
-| **Databases & Warehouses** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **Analysis & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
-
----
-
-## 📊 Activity
-
-### 🧩 LeetCode
+<!-- ═══════════════ ACTIVITY ═══════════════ -->
+## `> activity`
 
 <p align="center">
   <a href="https://leetcode.com/u/veriperi/">
-    <img src="https://leetcard.jacoblin.cool/veriperi?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode stats for veriperi" />
+    <img src="https://leetcard.jacoblin.cool/veriperi?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&colors=0d1117,0d1117,c9d1d9,8b949e,00F7FF,BD93F9,FF79C6" alt="leetcode" />
   </a>
 </p>
 
-### 🐙 GitHub
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=veriperi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veriperi&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=veriperi&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=BD93F9&text_color=c9d1d9&ring_color=FF79C6" />
+  <img height="160" src="https://streak-stats.demolab.com?user=veriperi&hide_border=true&background=0d1117&ring=BD93F9&fire=FF79C6&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=veriperi&hide_border=true&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=veriperi&bg_color=0d1117&color=c9d1d9&line=BD93F9&point=00F7FF&area=true&area_color=7F5AF0&hide_border=true&radius=10" />
 </p>
 
----
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## `> projects`
 
+| | project | stack | |
+|:-:|---|---|:-:|
+| ⭐ | **[content-intelligence-pipeline](https://github.com/veriperi/content-intelligence-pipeline)**<br><sub>API ingestion → bronze/silver/gold · LLM categorisation & quality scoring · moved SQLite → Postgres to fix locking</sub> | `python` `airflow` `postgres` `dbt` `docker` | [repo](https://github.com/veriperi/content-intelligence-pipeline) |
+| 🌱 | **[wholevegan-analytics](https://github.com/veriperi/wholevegan.co)**<br><sub>postgres analytical layer + dashboard on synthetic orders</sub> | `postgres` `streamlit` | [live ↗](https://wholevegan-analytics.streamlit.app) |
+| 📈 | **[ecommerce-kpi-dashboard](https://github.com/veriperi/ecommerce-kpi-dashboard)**<br><sub>revenue, orders & customer KPIs in one view</sub> | `sql` `python` | [repo](https://github.com/veriperi/ecommerce-kpi-dashboard) |
+| 🚧 | **nifty50-market-pipeline**<br><sub>minute-level market data → s3 data lake → warehouse → dashboard</sub> | `spark` `s3` `snowflake` `tableau` | *soon* |
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
-  <i>“In God we trust. All others must bring data.”</i> — W. Edwards Deming
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=400&lines=%2F%2F+thanks+for+stopping+by+%E2%9C%A6" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,40:1a1b27,100:0d1117&height=90&section=footer" width="100%"/>
