@@ -1,10 +1,9 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a1b27,100:7F5AF0&height=150&section=header&text=hi%2C%20i'm%20vidhi%20%E2%9C%A6&fontSize=38&fontColor=00F7FF&fontAlignY=40&animation=twinkling" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a1b27,100:7F5AF0&height=70&section=header" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=620&height=40&lines=%3E+building+data+pipelines...;%3E+bronze+%E2%86%92+silver+%E2%86%92+gold+%E2%9C%93;%3E+open+to+junior+DE+roles+%E2%99%A1" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&height=48&lines=hi%2C+i'm+vidhi+%E2%9C%A6" alt="hi, i'm vidhi" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=BD93F9&center=true&vCenter=true&width=520&height=28&lines=%3E+building+data+pipelines...;%3E+bronze+%E2%86%92+silver+%E2%86%92+gold+%E2%9C%93;%3E+open+to+junior+DE+roles+%E2%99%A1" alt="typing" />
 </p>
 
 <p align="center">
@@ -28,34 +27,28 @@ degree:    B.E. Information Technology, University of Mumbai (2023) · CGPA 8.7
 <!-- ═══════════════ STACK ═══════════════ -->
 ## `> tech_stack`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/sql-0d1117?style=flat-square&logo=postgresql&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/airflow-0d1117?style=flat-square&logo=apacheairflow&logoColor=BD93F9" />
-  <img src="https://img.shields.io/badge/dbt-0d1117?style=flat-square&logo=dbt&logoColor=BD93F9" />
-  <img src="https://img.shields.io/badge/spark-0d1117?style=flat-square&logo=apachespark&logoColor=BD93F9" />
-  <img src="https://img.shields.io/badge/snowflake-0d1117?style=flat-square&logo=snowflake&logoColor=FF79C6" />
-  <img src="https://img.shields.io/badge/aws%20s3-0d1117?style=flat-square&logo=amazons3&logoColor=FF79C6" />
-  <img src="https://img.shields.io/badge/docker-0d1117?style=flat-square&logo=docker&logoColor=FF79C6" />
-  <img src="https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=BD93F9" />
-  <img src="https://img.shields.io/badge/tableau-0d1117?style=flat-square&logo=tableau&logoColor=FF79C6" />
+<p align="center">
+  <img src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/sql-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/dbt-0d1117?style=for-the-badge&logo=dbt&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/snowflake-0d1117?style=for-the-badge&logo=snowflake&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/aws%20s3-0d1117?style=for-the-badge&logo=amazons3&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=FF79C6" />
+  <img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=FF79C6" />
 </p>
 
 <!-- ═══════════════ ACTIVITY ═══════════════ -->
 ## `> activity`
 
 <p align="center">
-  <a href="https://leetcode.com/u/veriperi/">
-    <img src="https://leetcard.jacoblin.cool/veriperi?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&colors=0d1117,0d1117,c9d1d9,8b949e,00F7FF,BD93F9,FF79C6" alt="leetcode" />
-  </a>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=veriperi&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=BD93F9&text_color=c9d1d9&ring_color=FF79C6" />
-  <img height="160" src="https://streak-stats.demolab.com?user=veriperi&hide_border=true&background=0d1117&ring=BD93F9&fire=FF79C6&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" />
+  <a href="https://leetcode.com/u/veriperi/"><img width="49%" src="https://leetcard.jacoblin.cool/veriperi?theme=dark&font=JetBrains%20Mono&border=0&radius=10&width=500&height=200&colors=0d1117,0d1117,c9d1d9,8b949e,00F7FF,BD93F9,FF79C6" alt="leetcode" /></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veriperi&show_icons=true&hide_border=true&count_private=true&card_width=500&border_radius=10&bg_color=0d1117&title_color=00F7FF&icon_color=BD93F9&text_color=c9d1d9&ring_color=FF79C6" alt="github stats" />
 </p>
 
 <p align="center">
