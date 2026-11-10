@@ -46,10 +46,16 @@ degree:    B.E. Information Technology, University of Mumbai (2023) · CGPA 8.7
 <!-- ═══════════════ ACTIVITY ═══════════════ -->
 ## `> activity`
 
-<p align="center">
-  <a href="https://leetcode.com/u/veriperi/"><img width="49%" src="https://leetcard.jacoblin.cool/veriperi?theme=dark&font=JetBrains%20Mono&border=0&radius=10&width=500&height=200&colors=0d1117,0d1117,c9d1d9,8b949e,00F7FF,BD93F9,FF79C6" alt="leetcode" /></a>
-  <img width="49%" src="https://streak-stats.demolab.com?user=veriperi&hide_border=true&border_radius=10&card_width=500&card_height=200&background=0d1117&ring=BD93F9&fire=FF79C6&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" alt="github streak" />
-</p>
+<table align="center" width="100%">
+<tr>
+<th width="50%"><img src="https://img.shields.io/badge/leetcode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FF79C6" /></th>
+<th width="50%"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" /></th>
+</tr>
+<tr>
+<td align="center"><a href="https://leetcode.com/u/veriperi/"><img width="100%" src="https://leetcard.jacoblin.cool/veriperi?theme=dark&font=JetBrains%20Mono&border=0&radius=10&width=500&height=200&colors=0d1117,0d1117,c9d1d9,8b949e,00F7FF,BD93F9,FF79C6" alt="leetcode" /></a></td>
+<td align="center"><a href="https://github.com/veriperi"><img width="100%" src="https://streak-stats.demolab.com?user=veriperi&hide_border=true&border_radius=10&card_width=500&card_height=200&background=0d1117&ring=BD93F9&fire=FF79C6&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" alt="github streak" /></a></td>
+</tr>
+</table>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 ## `> projects`
