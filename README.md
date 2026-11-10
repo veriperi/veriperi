@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi%2C%20I'm%20Vidhi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20the%20making%20%7C%20Pipelines%20%E2%80%A2%20Warehouses%20%E2%80%A2%20Analytics&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=hi%2C%20i'm%20v%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20the%20making%20%7C%20Pipelines%20%E2%80%A2%20Warehouses%20%E2%80%A2%20Analytics&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://veriperi.github.io/"><img src="https://img.shields.io/badge/Portfolio-veriperi.github.io-2C5364?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/veriperi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/veriperi/"><img src="https://img.shields.io/badge/LeetCode-veriperi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
@@ -115,7 +116,17 @@ Kaggle (minute data) ──► Apache Spark ──► AWS S3 [Bronze → Silver 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Activity
+
+### 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/veriperi/">
+    <img src="https://leetcard.jacoblin.cool/veriperi?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode stats for veriperi" />
+  </a>
+</p>
+
+### 🐙 GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=veriperi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
