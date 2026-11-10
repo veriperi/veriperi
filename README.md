@@ -51,10 +51,6 @@ degree:    B.E. Information Technology, University of Mumbai (2023) · CGPA 8.7
   <img width="49%" src="https://streak-stats.demolab.com?user=veriperi&hide_border=true&border_radius=10&card_width=500&card_height=200&background=0d1117&ring=BD93F9&fire=FF79C6&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" alt="github streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=veriperi&bg_color=0d1117&color=c9d1d9&line=BD93F9&point=00F7FF&area=true&area_color=7F5AF0&hide_border=true&radius=10" />
-</p>
-
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 ## `> projects`
 
